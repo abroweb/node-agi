@@ -15,7 +15,7 @@
     "node": ">=0.8.0"
   },
   "dependencies": {
-    "readable-stream": "*"
+    "readable-stream": "1.1.7"
   },
   "devDependencies": {
     "mocha": "*",
